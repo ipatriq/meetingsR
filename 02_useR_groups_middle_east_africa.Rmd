@@ -45,3 +45,8 @@ knit: "bookdown::preview_chapter"
 ### Uganda
 
   * Kampala: [Kampala R Users Group](https://www.meetup.com/Kampala-R-Users-Group/)
+
+### Democratic Republic Of Congo
+
+  * Kinshasa : [UseR!Kin](https://www.meetup.com/user-kin/)
+  
